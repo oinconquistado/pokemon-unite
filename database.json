@@ -1,0 +1,3400 @@
+[
+    {
+        "name": "001A",
+        "pokedex": "001",
+        "grade": "A",
+        "display_name": "Bulbasaur",
+        "color1": "Green",
+        "stats": [
+            {
+                "hp": -50,
+                "sp_attack": 3
+            }
+        ]
+    },
+    {
+        "name": "002A",
+        "pokedex": "002",
+        "grade": "A",
+        "display_name": "Ivysaur",
+        "color1": "Green",
+        "stats": [
+            {
+                "sp_attack": 3,
+                "defense": -5
+            }
+        ]
+    },
+    {
+        "name": "003A",
+        "pokedex": "003",
+        "grade": "A",
+        "display_name": "Venusaur",
+        "color1": "Green",
+        "stats": [
+            {
+                "attack": -2,
+                "sp_attack": 3
+            }
+        ]
+    },
+    {
+        "name": "004A",
+        "pokedex": "004",
+        "grade": "A",
+        "display_name": "Charmander",
+        "color1": "Red",
+        "stats": [
+            {
+                "hp": 50,
+                "attack": -2
+            }
+        ]
+    },
+    {
+        "name": "005A",
+        "pokedex": "005",
+        "grade": "A",
+        "display_name": "Charmeleon",
+        "color1": "Red",
+        "stats": [
+            {
+                "hp": 50,
+                "sp_defense": -5
+            }
+        ]
+    },
+    {
+        "name": "006A",
+        "pokedex": "006",
+        "grade": "A",
+        "display_name": "Charizard",
+        "color1": "Red",
+        "stats": [
+            {
+                "hp": 50,
+                "defense": -5
+            }
+        ]
+    },
+    {
+        "name": "007A",
+        "pokedex": "007",
+        "grade": "A",
+        "display_name": "Squirtle",
+        "color1": "Blue",
+        "stats": [
+            {
+                "hp": -50,
+                "sp_attack": 3
+            }
+        ]
+    },
+    {
+        "name": "008A",
+        "pokedex": "008",
+        "grade": "A",
+        "display_name": "Wartortle",
+        "color1": "Blue",
+        "stats": [
+            {
+                "sp_attack": 3,
+                "defense": -5
+            }
+        ]
+    },
+    {
+        "name": "009A",
+        "pokedex": "009",
+        "grade": "A",
+        "display_name": "Blastoise",
+        "color1": "Blue",
+        "stats": [
+            {
+                "sp_attack": 3,
+                "crit": -0.6
+            }
+        ]
+    },
+    {
+        "name": "010A",
+        "pokedex": "010",
+        "grade": "A",
+        "display_name": "Caterpie",
+        "color1": "Green",
+        "stats": [
+            {
+                "hp": -50,
+                "defense": 5
+            }
+        ]
+    },
+    {
+        "name": "011A",
+        "pokedex": "011",
+        "grade": "A",
+        "display_name": "Metapod",
+        "color1": "Green",
+        "stats": [
+            {
+                "defense": 5,
+                "speed": -35
+            }
+        ]
+    },
+    {
+        "name": "012A",
+        "pokedex": "012",
+        "grade": "A",
+        "display_name": "Butterfree",
+        "color1": "Green",
+        "color2": "White",
+        "stats": [
+            {
+                "attack": -2,
+                "defense": 5
+            }
+        ]
+    },
+    {
+        "name": "013A",
+        "pokedex": "013",
+        "grade": "A",
+        "display_name": "Weedle",
+        "color1": "Green",
+        "stats": [
+            {
+                "defense": -5,
+                "sp_defense": 5
+            }
+        ]
+    },
+    {
+        "name": "014A",
+        "pokedex": "014",
+        "grade": "A",
+        "display_name": "Kakuna",
+        "color1": "Green",
+        "stats": [
+            {
+                "sp_defense": 5,
+                "speed": -35
+            }
+        ]
+    },
+    {
+        "name": "015A",
+        "pokedex": "015",
+        "grade": "A",
+        "display_name": "Beedrill",
+        "color1": "Green",
+        "color2": "Black",
+        "stats": [
+            {
+                "hp": -50,
+                "sp_defense": 5
+            }
+        ]
+    },
+    {
+        "name": "016A",
+        "pokedex": "016",
+        "grade": "A",
+        "display_name": "Pidgey",
+        "color1": "White",
+        "stats": [
+            {
+                "hp": 50,
+                "defense": -5
+            }
+        ]
+    },
+    {
+        "name": "017A",
+        "pokedex": "017",
+        "grade": "A",
+        "display_name": "Pidgeotto",
+        "color1": "White",
+        "stats": [
+            {
+                "hp": 50,
+                "sp_defense": -5
+            }
+        ]
+    },
+    {
+        "name": "018A",
+        "pokedex": "018",
+        "grade": "A",
+        "display_name": "Pidgeot",
+        "color1": "White",
+        "stats": [
+            {
+                "hp": 50,
+                "sp_attack": -3
+            }
+        ]
+    },
+    {
+        "name": "019A",
+        "pokedex": "019",
+        "grade": "A",
+        "display_name": "Rattata",
+        "color1": "White",
+        "stats": [
+            {
+                "hp": -50,
+                "defense": 5
+            }
+        ]
+    },
+    {
+        "name": "020A",
+        "pokedex": "020",
+        "grade": "A",
+        "display_name": "Raticate",
+        "color1": "White",
+        "stats": [
+            {
+                "sp_attack": -3,
+                "defense": 5
+            }
+        ]
+    },
+    {
+        "name": "021A",
+        "pokedex": "021",
+        "grade": "A",
+        "display_name": "Spearow",
+        "color1": "White",
+        "stats": [
+            {
+                "attack": 2,
+                "sp_defense": -5
+            }
+        ]
+    },
+    {
+        "name": "022A",
+        "pokedex": "022",
+        "grade": "A",
+        "display_name": "Fearow",
+        "color1": "White",
+        "stats": [
+            {
+                "attack": 2,
+                "sp_attack": -3
+            }
+        ]
+    },
+    {
+        "name": "023A",
+        "pokedex": "023",
+        "grade": "A",
+        "display_name": "Ekans",
+        "color1": "Black",
+        "stats": [
+            {
+                "attack": 2,
+                "defense": -5
+            }
+        ]
+    },
+    {
+        "name": "024A",
+        "pokedex": "024",
+        "grade": "A",
+        "display_name": "Arbok",
+        "color1": "Black",
+        "stats": [
+            {
+                "attack": 2,
+                "sp_defense": -5
+            }
+        ]
+    },
+    {
+        "name": "025A",
+        "pokedex": "025",
+        "grade": "A",
+        "display_name": "Pikachu",
+        "color1": "Yellow",
+        "stats": [
+            {
+                "sp_defense": 5,
+                "crit": -0.6
+            }
+        ]
+    },
+    {
+        "name": "026A",
+        "pokedex": "026",
+        "grade": "A",
+        "display_name": "Raichu",
+        "color1": "Yellow",
+        "stats": [
+            {
+                "hp": -50,
+                "sp_defense": 5
+            }
+        ]
+    },
+    {
+        "name": "027A",
+        "pokedex": "027",
+        "grade": "A",
+        "display_name": "Sandshrew",
+        "color1": "Brown",
+        "stats": [
+            {
+                "sp_defense": -5,
+                "crit": 0.6
+            }
+        ]
+    },
+    {
+        "name": "028A",
+        "pokedex": "028",
+        "grade": "A",
+        "display_name": "Sandslash",
+        "color1": "Brown",
+        "stats": [
+            {
+                "sp_attack": -3,
+                "crit": 0.6
+            }
+        ]
+    },
+    {
+        "name": "029A",
+        "pokedex": "029",
+        "grade": "A",
+        "display_name": "Nidoran♀",
+        "color1": "Purple",
+        "stats": [
+            {
+                "hp": 50,
+                "sp_defense": -5
+            }
+        ]
+    },
+    {
+        "name": "030A",
+        "pokedex": "030",
+        "grade": "A",
+        "display_name": "Nidorina",
+        "color1": "Purple",
+        "stats": [
+            {
+                "hp": 50,
+                "defense": -5
+            }
+        ]
+    },
+    {
+        "name": "031A",
+        "pokedex": "031",
+        "grade": "A",
+        "display_name": "Nidoqueen",
+        "color1": "Purple",
+        "color2": "Brown",
+        "stats": [
+            {
+                "hp": 50,
+                "sp_attack": -3
+            }
+        ]
+    },
+    {
+        "name": "032A",
+        "pokedex": "032",
+        "grade": "A",
+        "display_name": "Nidoran♂",
+        "color1": "Purple",
+        "stats": [
+            {
+                "hp": -50,
+                "attack": 2
+            }
+        ]
+    },
+    {
+        "name": "033A",
+        "pokedex": "033",
+        "grade": "A",
+        "display_name": "Nidorino",
+        "color1": "Purple",
+        "stats": [
+            {
+                "attack": 2,
+                "sp_defense": -5
+            }
+        ]
+    },
+    {
+        "name": "034A",
+        "pokedex": "034",
+        "grade": "A",
+        "display_name": "Nidoking",
+        "color1": "Purple",
+        "color2": "Brown",
+        "stats": [
+            {
+                "attack": 2,
+                "defense": -5
+            }
+        ]
+    },
+    {
+        "name": "035A",
+        "pokedex": "035",
+        "grade": "A",
+        "display_name": "Clefairy",
+        "color1": "Pink",
+        "stats": [
+            {
+                "hp": 50,
+                "defense": -5
+            }
+        ]
+    },
+    {
+        "name": "036A",
+        "pokedex": "036",
+        "grade": "A",
+        "display_name": "Clefable",
+        "color1": "Pink",
+        "stats": [
+            {
+                "hp": 50,
+                "speed": -35
+            }
+        ]
+    },
+    {
+        "name": "037A",
+        "pokedex": "037",
+        "grade": "A",
+        "display_name": "Vulpix",
+        "color1": "Red",
+        "stats": [
+            {
+                "hp": -50,
+                "sp_defense": 5
+            }
+        ]
+    },
+    {
+        "name": "038A",
+        "pokedex": "038",
+        "grade": "A",
+        "display_name": "Ninetales",
+        "color1": "Red",
+        "stats": [
+            {
+                "attack": -2,
+                "sp_defense": 5
+            }
+        ]
+    },
+    {
+        "name": "039A",
+        "pokedex": "039",
+        "grade": "A",
+        "display_name": "Jigglypuff",
+        "color1": "Pink",
+        "stats": [
+            {
+                "hp": 50,
+                "sp_defense": -5
+            }
+        ]
+    },
+    {
+        "name": "040A",
+        "pokedex": "040",
+        "grade": "A",
+        "display_name": "Wigglytuff",
+        "color1": "Pink",
+        "stats": [
+            {
+                "hp": 50,
+                "speed": -35
+            }
+        ]
+    },
+    {
+        "name": "041A",
+        "pokedex": "041",
+        "grade": "A",
+        "display_name": "Zubat",
+        "color1": "Black",
+        "stats": [
+            {
+                "attack": -2,
+                "speed": 35
+            }
+        ]
+    },
+    {
+        "name": "042A",
+        "pokedex": "042",
+        "grade": "A",
+        "display_name": "Golbat",
+        "color1": "Black",
+        "stats": [
+            {
+                "sp_defense": -5,
+                "speed": 35
+            }
+        ]
+    },
+    {
+        "name": "043A",
+        "pokedex": "043",
+        "grade": "A",
+        "display_name": "Oddish",
+        "color1": "Green",
+        "stats": [
+            {
+                "hp": 50,
+                "speed": -35
+            }
+        ]
+    },
+    {
+        "name": "044A",
+        "pokedex": "044",
+        "grade": "A",
+        "display_name": "Gloom",
+        "color1": "Green",
+        "stats": [
+            {
+                "hp": 50,
+                "defense": -5
+            }
+        ]
+    },
+    {
+        "name": "045A",
+        "pokedex": "045",
+        "grade": "A",
+        "display_name": "Vileplume",
+        "color1": "Green",
+        "color2": "Black",
+        "stats": [
+            {
+                "hp": 50,
+                "attack": -2
+            }
+        ]
+    },
+    {
+        "name": "046A",
+        "pokedex": "046",
+        "grade": "A",
+        "display_name": "Paras",
+        "color1": "Green",
+        "stats": [
+            {
+                "defense": 5,
+                "crit": -0.6
+            }
+        ]
+    },
+    {
+        "name": "047A",
+        "pokedex": "047",
+        "grade": "A",
+        "display_name": "Parasect",
+        "color1": "Green",
+        "stats": [
+            {
+                "sp_attack": -3,
+                "defense": 5
+            }
+        ]
+    },
+    {
+        "name": "048A",
+        "pokedex": "048",
+        "grade": "A",
+        "display_name": "Venonat",
+        "color1": "Green",
+        "stats": [
+            {
+                "hp": 50,
+                "attack": -2
+            }
+        ]
+    },
+    {
+        "name": "049A",
+        "pokedex": "049",
+        "grade": "A",
+        "display_name": "Venomoth",
+        "color1": "Green",
+        "color2": "Black",
+        "stats": [
+            {
+                "hp": 50,
+                "crit": -0.6
+            }
+        ]
+    },
+    {
+        "name": "050A",
+        "pokedex": "050",
+        "grade": "A",
+        "display_name": "Diglett",
+        "color1": "Brown",
+        "stats": [
+            {
+                "hp": -50,
+                "speed": 35
+            }
+        ]
+    },
+    {
+        "name": "051A",
+        "pokedex": "051",
+        "grade": "A",
+        "display_name": "Dugtrio",
+        "color1": "Brown",
+        "stats": [
+            {
+                "defense": -5,
+                "speed": 35
+            }
+        ]
+    },
+    {
+        "name": "052A",
+        "pokedex": "052",
+        "grade": "A",
+        "display_name": "Meowth",
+        "color1": "White",
+        "stats": [
+            {
+                "defense": -5,
+                "crit": 0.6
+            }
+        ]
+    },
+    {
+        "name": "053A",
+        "pokedex": "053",
+        "grade": "A",
+        "display_name": "Persian",
+        "color1": "White",
+        "stats": [
+            {
+                "defense": -5,
+                "crit": 0.6
+            }
+        ]
+    },
+    {
+        "name": "054A",
+        "pokedex": "054",
+        "grade": "A",
+        "display_name": "Psyduck",
+        "color1": "Blue",
+        "stats": [
+            {
+                "hp": -50,
+                "sp_defense": 5
+            }
+        ]
+    },
+    {
+        "name": "055A",
+        "pokedex": "055",
+        "grade": "A",
+        "display_name": "Golduck",
+        "color1": "Blue",
+        "stats": [
+            {
+                "attack": -2,
+                "sp_defense": 5
+            }
+        ]
+    },
+    {
+        "name": "056A",
+        "pokedex": "056",
+        "grade": "A",
+        "display_name": "Mankey",
+        "color1": "Brown",
+        "stats": [
+            {
+                "hp": 50,
+                "defense": -5
+            }
+        ]
+    },
+    {
+        "name": "057A",
+        "pokedex": "057",
+        "grade": "A",
+        "display_name": "Primeape",
+        "color1": "Brown",
+        "stats": [
+            {
+                "hp": 50,
+                "sp_attack": -3
+            }
+        ]
+    },
+    {
+        "name": "058A",
+        "pokedex": "058",
+        "grade": "A",
+        "display_name": "Growlithe",
+        "color1": "Red",
+        "stats": [
+            {
+                "sp_attack": 3,
+                "sp_defense": -5
+            }
+        ]
+    },
+    {
+        "name": "059A",
+        "pokedex": "059",
+        "grade": "A",
+        "display_name": "Arcanine",
+        "color1": "Red",
+        "stats": [
+            {
+                "attack": -2,
+                "sp_attack": 3
+            }
+        ]
+    },
+    {
+        "name": "060A",
+        "pokedex": "060",
+        "grade": "A",
+        "display_name": "Poliwag",
+        "color1": "Blue",
+        "stats": [
+            {
+                "defense": -5,
+                "sp_defense": 5
+            }
+        ]
+    },
+    {
+        "name": "061A",
+        "pokedex": "061",
+        "grade": "A",
+        "display_name": "Poliwhirl",
+        "color1": "Blue",
+        "stats": [
+            {
+                "hp": -50,
+                "sp_defense": 5
+            }
+        ]
+    },
+    {
+        "name": "062A",
+        "pokedex": "062",
+        "grade": "A",
+        "display_name": "Poliwrath",
+        "color1": "Blue",
+        "color2": "Brown",
+        "stats": [
+            {
+                "sp_attack": -3,
+                "sp_defense": 5
+            }
+        ]
+    },
+    {
+        "name": "063A",
+        "pokedex": "063",
+        "grade": "A",
+        "display_name": "Abra",
+        "color1": "Purple",
+        "stats": [
+            {
+                "hp": -50,
+                "sp_attack": 3
+            }
+        ]
+    },
+    {
+        "name": "064A",
+        "pokedex": "064",
+        "grade": "A",
+        "display_name": "Kadabra",
+        "color1": "Purple",
+        "stats": [
+            {
+                "sp_attack": 3,
+                "crit": -0.6
+            }
+        ]
+    },
+    {
+        "name": "065A",
+        "pokedex": "065",
+        "grade": "A",
+        "display_name": "Alakazam",
+        "color1": "Purple",
+        "stats": [
+            {
+                "attack": -2,
+                "sp_attack": 3
+            }
+        ]
+    },
+    {
+        "name": "066A",
+        "pokedex": "066",
+        "grade": "A",
+        "display_name": "Machop",
+        "color1": "Brown",
+        "stats": [
+            {
+                "attack": 2,
+                "speed": -35
+            }
+        ]
+    },
+    {
+        "name": "067A",
+        "pokedex": "067",
+        "grade": "A",
+        "display_name": "Machoke",
+        "color1": "Brown",
+        "stats": [
+            {
+                "attack": 2,
+                "sp_defense": -5
+            }
+        ]
+    },
+    {
+        "name": "068A",
+        "pokedex": "068",
+        "grade": "A",
+        "display_name": "Machamp",
+        "color1": "Brown",
+        "stats": [
+            {
+                "attack": 2,
+                "sp_attack": -3
+            }
+        ]
+    },
+    {
+        "name": "069A",
+        "pokedex": "069",
+        "grade": "A",
+        "display_name": "Bellsprout",
+        "color1": "Green",
+        "stats": [
+            {
+                "attack": 2,
+                "defense": -5
+            }
+        ]
+    },
+    {
+        "name": "070A",
+        "pokedex": "070",
+        "grade": "A",
+        "display_name": "Weepinbell",
+        "color1": "Green",
+        "stats": [
+            {
+                "hp": -50,
+                "attack": 2
+            }
+        ]
+    },
+    {
+        "name": "071A",
+        "pokedex": "071",
+        "grade": "A",
+        "display_name": "Victreebel",
+        "color1": "Green",
+        "color2": "Black",
+        "stats": [
+            {
+                "attack": 2,
+                "sp_defense": -5
+            }
+        ]
+    },
+    {
+        "name": "072A",
+        "pokedex": "072",
+        "grade": "A",
+        "display_name": "Tentacool",
+        "color1": "Blue",
+        "stats": [
+            {
+                "hp": -50,
+                "sp_defense": 5
+            }
+        ]
+    },
+    {
+        "name": "073A",
+        "pokedex": "073",
+        "grade": "A",
+        "display_name": "Tentacruel",
+        "color1": "Blue",
+        "color2": "Black",
+        "stats": [
+            {
+                "sp_defense": 5,
+                "crit": -0.6
+            }
+        ]
+    },
+    {
+        "name": "074A",
+        "pokedex": "074",
+        "grade": "A",
+        "display_name": "Geodude",
+        "color1": "Brown",
+        "stats": [
+            {
+                "defense": 5,
+                "sp_defense": -5
+            }
+        ]
+    },
+    {
+        "name": "075A",
+        "pokedex": "075",
+        "grade": "A",
+        "display_name": "Graveler",
+        "color1": "Brown",
+        "stats": [
+            {
+                "defense": 5,
+                "crit": -0.6
+            }
+        ]
+    },
+    {
+        "name": "076A",
+        "pokedex": "076",
+        "grade": "A",
+        "display_name": "Golem",
+        "color1": "Brown",
+        "stats": [
+            {
+                "sp_attack": -3,
+                "defense": 5
+            }
+        ]
+    },
+    {
+        "name": "077A",
+        "pokedex": "077",
+        "grade": "A",
+        "display_name": "Ponyta",
+        "color1": "Red",
+        "stats": [
+            {
+                "hp": -50,
+                "attack": 2
+            }
+        ]
+    },
+    {
+        "name": "078A",
+        "pokedex": "078",
+        "grade": "A",
+        "display_name": "Rapidash",
+        "color1": "Red",
+        "stats": [
+            {
+                "attack": 2,
+                "defense": -5
+            }
+        ]
+    },
+    {
+        "name": "079A",
+        "pokedex": "079",
+        "grade": "A",
+        "display_name": "Slowpoke",
+        "color1": "Blue",
+        "stats": [
+            {
+                "defense": 5,
+                "speed": -35
+            }
+        ]
+    },
+    {
+        "name": "080A",
+        "pokedex": "080",
+        "grade": "A",
+        "display_name": "Slowbro",
+        "color1": "Blue",
+        "color2": "Purple",
+        "stats": [
+            {
+                "defense": 5,
+                "speed": -35
+            }
+        ]
+    },
+    {
+        "name": "081A",
+        "pokedex": "081",
+        "grade": "A",
+        "display_name": "Magnemite",
+        "color1": "Yellow",
+        "stats": [
+            {
+                "hp": -50,
+                "defense": 5
+            }
+        ]
+    },
+    {
+        "name": "082A",
+        "pokedex": "082",
+        "grade": "A",
+        "display_name": "Magneton",
+        "color1": "Yellow",
+        "stats": [
+            {
+                "attack": -2,
+                "defense": 5
+            }
+        ]
+    },
+    {
+        "name": "083A",
+        "pokedex": "083",
+        "grade": "A",
+        "display_name": "Farfetch'd",
+        "color1": "White",
+        "stats": [
+            {
+                "hp": -50,
+                "crit": 0.6
+            }
+        ]
+    },
+    {
+        "name": "084A",
+        "pokedex": "084",
+        "grade": "A",
+        "display_name": "Doduo",
+        "color1": "White",
+        "stats": [
+            {
+                "hp": -50,
+                "speed": 35
+            }
+        ]
+    },
+    {
+        "name": "085A",
+        "pokedex": "085",
+        "grade": "A",
+        "display_name": "Dodrio",
+        "color1": "White",
+        "stats": [
+            {
+                "hp": -50,
+                "speed": 35
+            }
+        ]
+    },
+    {
+        "name": "086A",
+        "pokedex": "086",
+        "grade": "A",
+        "display_name": "Seel",
+        "color1": "Blue",
+        "stats": [
+            {
+                "hp": 50,
+                "attack": -2
+            }
+        ]
+    },
+    {
+        "name": "087A",
+        "pokedex": "087",
+        "grade": "A",
+        "display_name": "Dewgong",
+        "color1": "Blue",
+        "stats": [
+            {
+                "hp": 50,
+                "sp_attack": -3
+            }
+        ]
+    },
+    {
+        "name": "088A",
+        "pokedex": "088",
+        "grade": "A",
+        "display_name": "Grimer",
+        "color1": "Black",
+        "stats": [
+            {
+                "hp": 50,
+                "attack": -2
+            }
+        ]
+    },
+    {
+        "name": "089A",
+        "pokedex": "089",
+        "grade": "A",
+        "display_name": "Muk",
+        "color1": "Black",
+        "stats": [
+            {
+                "hp": 50,
+                "sp_attack": -3
+            }
+        ]
+    },
+    {
+        "name": "090A",
+        "pokedex": "090",
+        "grade": "A",
+        "display_name": "Shellder",
+        "color1": "Blue",
+        "stats": [
+            {
+                "hp": -50,
+                "defense": 5
+            }
+        ]
+    },
+    {
+        "name": "091A",
+        "pokedex": "091",
+        "grade": "A",
+        "display_name": "Cloyster",
+        "color1": "Blue",
+        "stats": [
+            {
+                "defense": 5,
+                "sp_defense": -5
+            }
+        ]
+    },
+    {
+        "name": "092A",
+        "pokedex": "092",
+        "grade": "A",
+        "display_name": "Gastly",
+        "color1": "Purple",
+        "stats": [
+            {
+                "hp": -50,
+                "speed": 35
+            }
+        ]
+    },
+    {
+        "name": "093A",
+        "pokedex": "093",
+        "grade": "A",
+        "display_name": "Haunter",
+        "color1": "Purple",
+        "stats": [
+            {
+                "defense": -5,
+                "speed": 35
+            }
+        ]
+    },
+    {
+        "name": "094A",
+        "pokedex": "094",
+        "grade": "A",
+        "display_name": "Gengar",
+        "color1": "Purple",
+        "color2": "Black",
+        "stats": [
+            {
+                "attack": -2,
+                "speed": 35
+            }
+        ]
+    },
+    {
+        "name": "095A",
+        "pokedex": "095",
+        "grade": "A",
+        "display_name": "Onix",
+        "color1": "Brown",
+        "stats": [
+            {
+                "hp": -50,
+                "defense": 5
+            }
+        ]
+    },
+    {
+        "name": "096A",
+        "pokedex": "096",
+        "grade": "A",
+        "display_name": "Drowzee",
+        "color1": "Purple",
+        "stats": [
+            {
+                "sp_defense": 5,
+                "speed": -35
+            }
+        ]
+    },
+    {
+        "name": "097A",
+        "pokedex": "097",
+        "grade": "A",
+        "display_name": "Hypno",
+        "color1": "Purple",
+        "stats": [
+            {
+                "sp_defense": 5,
+                "crit": -0.6
+            }
+        ]
+    },
+    {
+        "name": "098A",
+        "pokedex": "098",
+        "grade": "A",
+        "display_name": "Krabby",
+        "color1": "Blue",
+        "stats": [
+            {
+                "hp": -50,
+                "attack": 2
+            }
+        ]
+    },
+    {
+        "name": "099A",
+        "pokedex": "099",
+        "grade": "A",
+        "display_name": "Kingler",
+        "color1": "Blue",
+        "stats": [
+            {
+                "attack": 2,
+                "sp_defense": -5
+            }
+        ]
+    },
+    {
+        "name": "100A",
+        "pokedex": "100",
+        "grade": "A",
+        "display_name": "Voltorb",
+        "color1": "Yellow",
+        "stats": [
+            {
+                "hp": -50,
+                "speed": 35
+            }
+        ]
+    },
+    {
+        "name": "101A",
+        "pokedex": "101",
+        "grade": "A",
+        "display_name": "Electrode",
+        "color1": "Yellow",
+        "stats": [
+            {
+                "attack": -2,
+                "speed": 35
+            }
+        ]
+    },
+    {
+        "name": "102A",
+        "pokedex": "102",
+        "grade": "A",
+        "display_name": "Exeggcute",
+        "color1": "Green",
+        "stats": [
+            {
+                "sp_attack": 3,
+                "sp_defense": -5
+            }
+        ]
+    },
+    {
+        "name": "103A",
+        "pokedex": "103",
+        "grade": "A",
+        "display_name": "Exeggutor",
+        "color1": "Green",
+        "color2": "Purple",
+        "stats": [
+            {
+                "sp_attack": 3,
+                "speed": -35
+            }
+        ]
+    },
+    {
+        "name": "104A",
+        "pokedex": "104",
+        "grade": "A",
+        "display_name": "Cubone",
+        "color1": "Brown",
+        "stats": [
+            {
+                "hp": -50,
+                "attack": 2
+            }
+        ]
+    },
+    {
+        "name": "105A",
+        "pokedex": "105",
+        "grade": "A",
+        "display_name": "Marowak",
+        "color1": "Brown",
+        "stats": [
+            {
+                "attack": 2,
+                "sp_attack": -3
+            }
+        ]
+    },
+    {
+        "name": "106A",
+        "pokedex": "106",
+        "grade": "A",
+        "display_name": "Hitmonlee",
+        "color1": "Brown",
+        "stats": [
+            {
+                "sp_attack": -3,
+                "sp_defense": 5
+            }
+        ]
+    },
+    {
+        "name": "107A",
+        "pokedex": "107",
+        "grade": "A",
+        "display_name": "Hitmonchan",
+        "color1": "Brown",
+        "stats": [
+            {
+                "sp_attack": -3,
+                "sp_defense": 5
+            }
+        ]
+    },
+    {
+        "name": "108A",
+        "pokedex": "108",
+        "grade": "A",
+        "display_name": "Lickitung",
+        "color1": "White",
+        "stats": [
+            {
+                "defense": 5,
+                "speed": -35
+            }
+        ]
+    },
+    {
+        "name": "109A",
+        "pokedex": "109",
+        "grade": "A",
+        "display_name": "Koffing",
+        "color1": "Purple",
+        "stats": [
+            {
+                "hp": -50,
+                "defense": 5
+            }
+        ]
+    },
+    {
+        "name": "110A",
+        "pokedex": "110",
+        "grade": "A",
+        "display_name": "Weezing",
+        "color1": "Purple",
+        "stats": [
+            {
+                "defense": 5,
+                "speed": -35
+            }
+        ]
+    },
+    {
+        "name": "111A",
+        "pokedex": "111",
+        "grade": "A",
+        "display_name": "Rhyhorn",
+        "color1": "Brown",
+        "stats": [
+            {
+                "hp": 50,
+                "speed": -35
+            }
+        ]
+    },
+    {
+        "name": "112A",
+        "pokedex": "112",
+        "grade": "A",
+        "display_name": "Rhydon",
+        "color1": "Brown",
+        "stats": [
+            {
+                "hp": 50,
+                "sp_defense": -5
+            }
+        ]
+    },
+    {
+        "name": "113A",
+        "pokedex": "113",
+        "grade": "A",
+        "display_name": "Chansey",
+        "color1": "White",
+        "stats": [
+            {
+                "hp": 50,
+                "defense": -5
+            }
+        ]
+    },
+    {
+        "name": "114A",
+        "pokedex": "114",
+        "grade": "A",
+        "display_name": "Tangela",
+        "color1": "Green",
+        "stats": [
+            {
+                "defense": 5,
+                "sp_defense": -5
+            }
+        ]
+    },
+    {
+        "name": "115A",
+        "pokedex": "115",
+        "grade": "A",
+        "display_name": "Kangaskhan",
+        "color1": "White",
+        "stats": [
+            {
+                "hp": 50,
+                "sp_attack": -3
+            }
+        ]
+    },
+    {
+        "name": "116A",
+        "pokedex": "116",
+        "grade": "A",
+        "display_name": "Horsea",
+        "color1": "Blue",
+        "stats": [
+            {
+                "hp": -50,
+                "sp_attack": 3
+            }
+        ]
+    },
+    {
+        "name": "117A",
+        "pokedex": "117",
+        "grade": "A",
+        "display_name": "Seadra",
+        "color1": "Blue",
+        "stats": [
+            {
+                "sp_attack": 3,
+                "sp_defense": -5
+            }
+        ]
+    },
+    {
+        "name": "118A",
+        "pokedex": "118",
+        "grade": "A",
+        "display_name": "Goldeen",
+        "color1": "Blue",
+        "stats": [
+            {
+                "hp": 50,
+                "sp_defense": -5
+            }
+        ]
+    },
+    {
+        "name": "119A",
+        "pokedex": "119",
+        "grade": "A",
+        "display_name": "Seaking",
+        "color1": "Blue",
+        "stats": [
+            {
+                "hp": 50,
+                "sp_attack": -3
+            }
+        ]
+    },
+    {
+        "name": "120A",
+        "pokedex": "120",
+        "grade": "A",
+        "display_name": "Staryu",
+        "color1": "Blue",
+        "stats": [
+            {
+                "hp": -50,
+                "speed": 35
+            }
+        ]
+    },
+    {
+        "name": "121A",
+        "pokedex": "121",
+        "grade": "A",
+        "display_name": "Starmie",
+        "color1": "Blue",
+        "color2": "Purple",
+        "stats": [
+            {
+                "attack": -2,
+                "speed": 35
+            }
+        ]
+    },
+    {
+        "name": "122A",
+        "pokedex": "122",
+        "grade": "A",
+        "display_name": "Mr. Mime",
+        "color1": "Purple",
+        "color2": "Pink",
+        "stats": [
+            {
+                "hp": -50,
+                "sp_defense": 5
+            }
+        ]
+    },
+    {
+        "name": "123A",
+        "pokedex": "123",
+        "grade": "A",
+        "display_name": "Scyther",
+        "color1": "Green",
+        "color2": "White",
+        "stats": [
+            {
+                "defense": -5,
+                "crit": 0.6
+            }
+        ]
+    },
+    {
+        "name": "124A",
+        "pokedex": "124",
+        "grade": "A",
+        "display_name": "Jynx",
+        "color1": "Blue",
+        "color2": "Purple",
+        "stats": [
+            {
+                "sp_attack": 3,
+                "defense": -5
+            }
+        ]
+    },
+    {
+        "name": "125A",
+        "pokedex": "125",
+        "grade": "A",
+        "display_name": "Electabuzz",
+        "color1": "Yellow",
+        "stats": [
+            {
+                "attack": 2,
+                "defense": -5
+            }
+        ]
+    },
+    {
+        "name": "126A",
+        "pokedex": "126",
+        "grade": "A",
+        "display_name": "Magmar",
+        "color1": "Red",
+        "stats": [
+            {
+                "hp": -50,
+                "sp_attack": 3
+            }
+        ]
+    },
+    {
+        "name": "127A",
+        "pokedex": "127",
+        "grade": "A",
+        "display_name": "Pinsir",
+        "color1": "Green",
+        "stats": [
+            {
+                "sp_defense": -5,
+                "crit": 0.6
+            }
+        ]
+    },
+    {
+        "name": "128A",
+        "pokedex": "128",
+        "grade": "A",
+        "display_name": "Tauros",
+        "color1": "White",
+        "stats": [
+            {
+                "attack": 2,
+                "sp_attack": -3
+            }
+        ]
+    },
+    {
+        "name": "129A",
+        "pokedex": "129",
+        "grade": "A",
+        "display_name": "Magikarp",
+        "color1": "Blue",
+        "stats": [
+            {
+                "hp": -50,
+                "attack": 2
+            }
+        ]
+    },
+    {
+        "name": "130A",
+        "pokedex": "130",
+        "grade": "A",
+        "display_name": "Gyarados",
+        "color1": "Blue",
+        "color2": "White",
+        "stats": [
+            {
+                "attack": 2,
+                "sp_attack": -3
+            }
+        ]
+    },
+    {
+        "name": "131A",
+        "pokedex": "131",
+        "grade": "A",
+        "display_name": "Lapras",
+        "color1": "Blue",
+        "stats": [
+            {
+                "hp": 50,
+                "speed": -35
+            }
+        ]
+    },
+    {
+        "name": "132A",
+        "pokedex": "132",
+        "grade": "A",
+        "display_name": "Ditto",
+        "color1": "White",
+        "stats": [
+            {
+                "hp": 0
+            }
+        ]
+    },
+    {
+        "name": "133A",
+        "pokedex": "133",
+        "grade": "A",
+        "display_name": "Eevee",
+        "color1": "White",
+        "stats": [
+            {
+                "sp_attack": -3,
+                "sp_defense": 5
+            }
+        ]
+    },
+    {
+        "name": "134A",
+        "pokedex": "134",
+        "grade": "A",
+        "display_name": "Vaporeon",
+        "color1": "Blue",
+        "stats": [
+            {
+                "hp": 50,
+                "attack": -2
+            }
+        ]
+    },
+    {
+        "name": "135A",
+        "pokedex": "135",
+        "grade": "A",
+        "display_name": "Jolteon",
+        "color1": "Yellow",
+        "stats": [
+            {
+                "hp": -50,
+                "sp_attack": 3
+            }
+        ]
+    },
+    {
+        "name": "136A",
+        "pokedex": "136",
+        "grade": "A",
+        "display_name": "Flareon",
+        "color1": "Red",
+        "stats": [
+            {
+                "attack": 2,
+                "defense": -5
+            }
+        ]
+    },
+    {
+        "name": "137A",
+        "pokedex": "137",
+        "grade": "A",
+        "display_name": "Porygon",
+        "color1": "White",
+        "stats": [
+            {
+                "attack": -2,
+                "sp_attack": 3
+            }
+        ]
+    },
+    {
+        "name": "138A",
+        "pokedex": "138",
+        "grade": "A",
+        "display_name": "Omanyte",
+        "color1": "Brown",
+        "stats": [
+            {
+                "hp": -50,
+                "sp_attack": 3
+            }
+        ]
+    },
+    {
+        "name": "139A",
+        "pokedex": "139",
+        "grade": "A",
+        "display_name": "Omastar",
+        "color1": "Brown",
+        "color2": "Blue",
+        "stats": [
+            {
+                "sp_attack": 3,
+                "speed": -35
+            }
+        ]
+    },
+    {
+        "name": "140A",
+        "pokedex": "140",
+        "grade": "A",
+        "display_name": "Kabuto",
+        "color1": "Brown",
+        "stats": [
+            {
+                "hp": -50,
+                "crit": 0.6
+            }
+        ]
+    },
+    {
+        "name": "141A",
+        "pokedex": "141",
+        "grade": "A",
+        "display_name": "Kabutops",
+        "color1": "Brown",
+        "color2": "Blue",
+        "stats": [
+            {
+                "sp_attack": -3,
+                "crit": 0.6
+            }
+        ]
+    },
+    {
+        "name": "142A",
+        "pokedex": "142",
+        "grade": "A",
+        "display_name": "Aerodactyl",
+        "color1": "Brown",
+        "color2": "White",
+        "stats": [
+            {
+                "defense": -5,
+                "speed": 35
+            }
+        ]
+    },
+    {
+        "name": "143A",
+        "pokedex": "143",
+        "grade": "A",
+        "display_name": "Snorlax",
+        "color1": "White",
+        "stats": [
+            {
+                "sp_defense": 5,
+                "crit": -0.6
+            }
+        ]
+    },
+    {
+        "name": "144A",
+        "pokedex": "144",
+        "grade": "A",
+        "display_name": "Articuno",
+        "color1": "Blue",
+        "color2": "White",
+        "stats": [
+            {
+                "attack": -2,
+                "sp_attack": 3
+            }
+        ]
+    },
+    {
+        "name": "145A",
+        "pokedex": "145",
+        "grade": "A",
+        "display_name": "Zapdos",
+        "color1": "Yellow",
+        "color2": "White",
+        "stats": [
+            {
+                "hp": 50,
+                "attack": -2
+            }
+        ]
+    },
+    {
+        "name": "146A",
+        "pokedex": "146",
+        "grade": "A",
+        "display_name": "Moltres",
+        "color1": "Red",
+        "color2": "White",
+        "stats": [
+            {
+                "sp_attack": 3,
+                "sp_defense": -5
+            }
+        ]
+    },
+    {
+        "name": "147A",
+        "pokedex": "147",
+        "grade": "A",
+        "display_name": "Dratini",
+        "color1": "Navy",
+        "stats": [
+            {
+                "hp": 50,
+                "speed": -35
+            }
+        ]
+    },
+    {
+        "name": "148A",
+        "pokedex": "148",
+        "grade": "A",
+        "display_name": "Dragonair",
+        "color1": "Navy",
+        "stats": [
+            {
+                "hp": 50,
+                "attack": -2
+            }
+        ]
+    },
+    {
+        "name": "149A",
+        "pokedex": "149",
+        "grade": "A",
+        "display_name": "Dragonite",
+        "color1": "Navy",
+        "color2": "White",
+        "stats": [
+            {
+                "hp": 50,
+                "sp_defense": -5
+            }
+        ]
+    },
+    {
+        "name": "150A",
+        "pokedex": "150",
+        "grade": "A",
+        "display_name": "Mewtwo",
+        "color1": "Purple",
+        "stats": [
+            {
+                "hp": -50,
+                "cdr": 0.6
+            }
+        ]
+    },
+    {
+        "name": "151A",
+        "pokedex": "151",
+        "grade": "A",
+        "display_name": "Mew",
+        "color1": "Purple",
+        "stats": [
+            {
+                "hp": -50,
+                "cdr": 0.6
+            }
+        ]
+    },
+    {
+        "name": "152A",
+        "pokedex": "152",
+        "grade": "A",
+        "display_name": "Chicorita",
+        "color1": "Green",
+        "stats": [
+            {
+                "hp": -50,
+                "defense": 5
+            }
+        ]
+    },
+    {
+        "name": "153A",
+        "pokedex": "153",
+        "grade": "A",
+        "display_name": "Bayleef",
+        "color1": "Green",
+        "stats": [
+            {
+                "defense": 5,
+                "speed": -35
+            }
+        ]
+    },
+    {
+        "name": "154A",
+        "pokedex": "154",
+        "grade": "A",
+        "display_name": "Meganium",
+        "color1": "Green",
+        "stats": [
+            {
+                "attack": -2,
+                "defense": 5
+            }
+        ]
+    },
+    {
+        "name": "155A",
+        "pokedex": "155",
+        "grade": "A",
+        "display_name": "Cyndaquil",
+        "color1": "Red",
+        "stats": [
+            {
+                "hp": -50,
+                "sp_attack": 3
+            }
+        ]
+    },
+    {
+        "name": "156A",
+        "pokedex": "156",
+        "grade": "A",
+        "display_name": "Quilava",
+        "color1": "Red",
+        "stats": [
+            {
+                "sp_attack": 3,
+                "defense": -5
+            }
+        ]
+    },
+    {
+        "name": "157A",
+        "pokedex": "157",
+        "grade": "A",
+        "display_name": "Typhlosion",
+        "color1": "Red",
+        "stats": [
+            {
+                "sp_attack": 3,
+                "sp_defense": -5
+            }
+        ]
+    },
+    {
+        "name": "158A",
+        "pokedex": "158",
+        "grade": "A",
+        "display_name": "Totodile",
+        "color1": "Blue",
+        "stats": [
+            {
+                "hp": -50,
+                "defense": 5
+            }
+        ]
+    },
+    {
+        "name": "159A",
+        "pokedex": "159",
+        "grade": "A",
+        "display_name": "Croconaw",
+        "color1": "Blue",
+        "stats": [
+            {
+                "defense": 5,
+                "sp_defense": -5
+            }
+        ]
+    },
+    {
+        "name": "160A",
+        "pokedex": "160",
+        "grade": "A",
+        "display_name": "Feraligatr",
+        "color1": "Blue",
+        "stats": [
+            {
+                "sp_attack": -3,
+                "defense": 5
+            }
+        ]
+    },
+    {
+        "name": "161A",
+        "pokedex": "161",
+        "grade": "A",
+        "display_name": "Sentret",
+        "color1": "White",
+        "stats": [
+            {
+                "sp_defense": -5,
+                "crit": 0.6
+            }
+        ]
+    },
+    {
+        "name": "162A",
+        "pokedex": "162",
+        "grade": "A",
+        "display_name": "Furret",
+        "color1": "White",
+        "stats": [
+            {
+                "sp_attack": -3,
+                "crit": 0.6
+            }
+        ]
+    },
+    {
+        "name": "163A",
+        "pokedex": "163",
+        "grade": "A",
+        "display_name": "Hoothoot",
+        "color1": "White",
+        "stats": [
+            {
+                "attack": -2,
+                "crit": 0.6
+            }
+        ]
+    },
+    {
+        "name": "164A",
+        "pokedex": "164",
+        "grade": "A",
+        "display_name": "Noctowl",
+        "color1": "White",
+        "stats": [
+            {
+                "defense": -5,
+                "crit": 0.6
+            }
+        ]
+    },
+    {
+        "name": "165A",
+        "pokedex": "165",
+        "grade": "A",
+        "display_name": "Ledyba",
+        "color1": "Green",
+        "stats": [
+            {
+                "sp_defense": 5,
+                "crit": -0.6
+            }
+        ]
+    },
+    {
+        "name": "166A",
+        "pokedex": "166",
+        "grade": "A",
+        "display_name": "Ledian",
+        "color1": "Green",
+        "stats": [
+            {
+                "attack": -2,
+                "sp_defense": 5
+            }
+        ]
+    },
+    {
+        "name": "167A",
+        "pokedex": "167",
+        "grade": "A",
+        "display_name": "Spinarak",
+        "color1": "Green",
+        "stats": [
+            {
+                "attack": 2,
+                "crit": -0.6
+            }
+        ]
+    },
+    {
+        "name": "168A",
+        "pokedex": "168",
+        "grade": "A",
+        "display_name": "Ariados",
+        "color1": "Black",
+        "stats": [
+            {
+                "attack": 2,
+                "sp_attack": -3
+            }
+        ]
+    },
+    {
+        "name": "169A",
+        "pokedex": "169",
+        "grade": "A",
+        "display_name": "Crobat",
+        "color1": "Black",
+        "stats": [
+            {
+                "sp_attack": -3,
+                "speed": 35
+            }
+        ]
+    },
+    {
+        "name": "170A",
+        "pokedex": "170",
+        "grade": "A",
+        "display_name": "Chinchou",
+        "color1": "Yellow",
+        "stats": [
+            {
+                "hp": 50,
+                "defense": -5
+            }
+        ]
+    },
+    {
+        "name": "171A",
+        "pokedex": "171",
+        "grade": "A",
+        "display_name": "Lanturn",
+        "color1": "Yellow",
+        "stats": [
+            {
+                "hp": 50,
+                "attack": -2
+            }
+        ]
+    },
+    {
+        "name": "172A",
+        "pokedex": "172",
+        "grade": "A",
+        "display_name": "Pichu",
+        "color1": "Yellow",
+        "stats": [
+            {
+                "attack": -2,
+                "speed": 35
+            }
+        ]
+    },
+    {
+        "name": "173A",
+        "pokedex": "173",
+        "grade": "A",
+        "display_name": "Cleffa",
+        "color1": "Pink",
+        "stats": [
+            {
+                "hp": 50,
+                "defense": -5
+            }
+        ]
+    },
+    {
+        "name": "174A",
+        "pokedex": "174",
+        "grade": "A",
+        "display_name": "Igglybuff",
+        "color1": "Pink",
+        "stats": [
+            {
+                "hp": 50,
+                "defense": -5
+            }
+        ]
+    },
+    {
+        "name": "175A",
+        "pokedex": "175",
+        "grade": "A",
+        "display_name": "Togepi",
+        "color1": "Pink",
+        "stats": [
+            {
+                "sp_defense": 5,
+                "speed": -35
+            }
+        ]
+    },
+    {
+        "name": "176A",
+        "pokedex": "176",
+        "grade": "A",
+        "display_name": "Togetic",
+        "color1": "Pink",
+        "color2": "White",
+        "stats": [
+            {
+                "hp": -50,
+                "sp_defense": 5
+            }
+        ]
+    },
+    {
+        "name": "177A",
+        "pokedex": "177",
+        "grade": "A",
+        "display_name": "Natu",
+        "color1": "Purple",
+        "stats": [
+            {
+                "speed": 35,
+                "crit": -0.6
+            }
+        ]
+    },
+    {
+        "name": "178A",
+        "pokedex": "178",
+        "grade": "A",
+        "display_name": "Xatu",
+        "color1": "Purple",
+        "color2": "White",
+        "stats": [
+            {
+                "defense": -5,
+                "speed": 35
+            }
+        ]
+    },
+    {
+        "name": "179A",
+        "pokedex": "179",
+        "grade": "A",
+        "display_name": "Mareep",
+        "color1": "Yellow",
+        "stats": [
+            {
+                "sp_attack": 3,
+                "defense": -5
+            }
+        ]
+    },
+    {
+        "name": "180A",
+        "pokedex": "180",
+        "grade": "A",
+        "display_name": "Flaaffy",
+        "color1": "Yellow",
+        "stats": [
+            {
+                "sp_attack": 3,
+                "crit": -0.6
+            }
+        ]
+    },
+    {
+        "name": "181A",
+        "pokedex": "181",
+        "grade": "A",
+        "display_name": "Ampharos",
+        "color1": "Yellow",
+        "stats": [
+            {
+                "attack": -2,
+                "sp_attack": 3
+            }
+        ]
+    },
+    {
+        "name": "182A",
+        "pokedex": "182",
+        "grade": "A",
+        "display_name": "Bellossom",
+        "color1": "Green",
+        "stats": [
+            {
+                "hp": -50,
+                "sp_attack": 3
+            }
+        ]
+    },
+    {
+        "name": "183A",
+        "pokedex": "183",
+        "grade": "A",
+        "display_name": "Marill",
+        "color1": "Pink",
+        "stats": [
+            {
+                "hp": 50,
+                "speed": -35
+            }
+        ]
+    },
+    {
+        "name": "184A",
+        "pokedex": "184",
+        "grade": "A",
+        "display_name": "Azumarill",
+        "color1": "Blue",
+        "color2": "Pink",
+        "stats": [
+            {
+                "hp": 50,
+                "speed": -35
+            }
+        ]
+    },
+    {
+        "name": "185A",
+        "pokedex": "185",
+        "grade": "A",
+        "display_name": "Sudowoodo",
+        "color1": "Brown",
+        "stats": [
+            {
+                "defense": 5,
+                "crit": -0.6
+            }
+        ]
+    },
+    {
+        "name": "186A",
+        "pokedex": "186",
+        "grade": "A",
+        "display_name": "Politoed",
+        "color1": "Blue",
+        "stats": [
+            {
+                "attack": -2,
+                "sp_defense": 5
+            }
+        ]
+    },
+    {
+        "name": "187A",
+        "pokedex": "187",
+        "grade": "A",
+        "display_name": "Hoppip",
+        "color1": "Green",
+        "stats": [
+            {
+                "hp": -50,
+                "speed": 35
+            }
+        ]
+    },
+    {
+        "name": "188A",
+        "pokedex": "188",
+        "grade": "A",
+        "display_name": "Skiploom",
+        "color1": "Green",
+        "stats": [
+            {
+                "sp_attack": -3,
+                "speed": 35
+            }
+        ]
+    },
+    {
+        "name": "189A",
+        "pokedex": "189",
+        "grade": "A",
+        "display_name": "Jumpluff",
+        "color1": "Green",
+        "color2": "White",
+        "stats": [
+            {
+                "attack": -2,
+                "speed": 35
+            }
+        ]
+    },
+    {
+        "name": "190A",
+        "pokedex": "190",
+        "grade": "A",
+        "display_name": "Aipom",
+        "color1": "White",
+        "stats": [
+            {
+                "defense": -5,
+                "crit": 0.6
+            }
+        ]
+    },
+    {
+        "name": "191A",
+        "pokedex": "191",
+        "grade": "A",
+        "display_name": "Sunkern",
+        "color1": "Green",
+        "stats": [
+            {
+                "hp": 50,
+                "defense": -5
+            }
+        ]
+    },
+    {
+        "name": "192A",
+        "pokedex": "192",
+        "grade": "A",
+        "display_name": "Sunflora",
+        "color1": "Green",
+        "stats": [
+            {
+                "hp": 50,
+                "sp_defense": -5
+            }
+        ]
+    },
+    {
+        "name": "193A",
+        "pokedex": "193",
+        "grade": "A",
+        "display_name": "Yanma",
+        "color1": "Green",
+        "stats": [
+            {
+                "defense": -5,
+                "speed": 35
+            }
+        ]
+    },
+    {
+        "name": "194A",
+        "pokedex": "194",
+        "grade": "A",
+        "display_name": "Wooper",
+        "color1": "Blue",
+        "stats": [
+            {
+                "hp": 50,
+                "sp_attack": -3
+            }
+        ]
+    },
+    {
+        "name": "195A",
+        "pokedex": "195",
+        "grade": "A",
+        "display_name": "Quagsire",
+        "color1": "Blue",
+        "color2": "Brown",
+        "stats": [
+            {
+                "hp": 50,
+                "sp_defense": -5
+            }
+        ]
+    },
+    {
+        "name": "196A",
+        "pokedex": "196",
+        "grade": "A",
+        "display_name": "Espeon",
+        "color1": "Purple",
+        "stats": [
+            {
+                "sp_attack": 3,
+                "defense": -5
+            }
+        ]
+    },
+    {
+        "name": "197A",
+        "pokedex": "197",
+        "grade": "A",
+        "display_name": "Umbreon",
+        "color1": "Black",
+        "stats": [
+            {
+                "sp_attack": -3,
+                "sp_defense": 5
+            }
+        ]
+    },
+    {
+        "name": "198A",
+        "pokedex": "198",
+        "grade": "A",
+        "display_name": "Murkrow",
+        "color1": "Black",
+        "stats": [
+            {
+                "sp_attack": 3,
+                "sp_defense": -5
+            }
+        ]
+    },
+    {
+        "name": "199A",
+        "pokedex": "199",
+        "grade": "A",
+        "display_name": "Slowking",
+        "color1": "Blue",
+        "color2": "Purple",
+        "stats": [
+            {
+                "sp_defense": 5,
+                "speed": -35
+            }
+        ]
+    },
+    {
+        "name": "200A",
+        "pokedex": "200",
+        "grade": "A",
+        "display_name": "Misdreavus",
+        "color1": "Purple",
+        "stats": [
+            {
+                "hp": -50,
+                "sp_defense": 5
+            }
+        ]
+    },
+    {
+        "name": "201A",
+        "pokedex": "201",
+        "grade": "A",
+        "display_name": "Unown",
+        "color1": "Purple",
+        "stats": [
+            {
+                "hp": -50,
+                "attack": 2
+            }
+        ]
+    },
+    {
+        "name": "202A",
+        "pokedex": "202",
+        "grade": "A",
+        "display_name": "Wobbuffet",
+        "color1": "Purple",
+        "stats": [
+            {
+                "hp": 50,
+                "crit": -0.6
+            }
+        ]
+    },
+    {
+        "name": "203A",
+        "pokedex": "203",
+        "grade": "A",
+        "display_name": "Girafarig",
+        "color1": "Purple",
+        "stats": [
+            {
+                "hp": 50,
+                "sp_defense": -5
+            }
+        ]
+    },
+    {
+        "name": "204A",
+        "pokedex": "204",
+        "grade": "A",
+        "display_name": "Pineco",
+        "color1": "Green",
+        "stats": [
+            {
+                "hp": -50,
+                "defense": 5
+            }
+        ]
+    },
+    {
+        "name": "205A",
+        "pokedex": "205",
+        "grade": "A",
+        "display_name": "Forretress",
+        "color1": "Gray",
+        "stats": [
+            {
+                "sp_attack": -3,
+                "defense": 5
+            }
+        ]
+    },
+    {
+        "name": "206A",
+        "pokedex": "206",
+        "grade": "A",
+        "display_name": "Dunsparce",
+        "color1": "White",
+        "stats": [
+            {
+                "hp": 50,
+                "sp_attack": -3
+            }
+        ]
+    },
+    {
+        "name": "207A",
+        "pokedex": "207",
+        "grade": "A",
+        "display_name": "Gligar",
+        "color1": "Brown",
+        "stats": [
+            {
+                "sp_attack": -3,
+                "defense": 5
+            }
+        ]
+    },
+    {
+        "name": "208A",
+        "pokedex": "208",
+        "grade": "A",
+        "display_name": "Steelix",
+        "color1": "Gray",
+        "color2": "Brown",
+        "stats": [
+            {
+                "defense": 5,
+                "sp_defense": -5
+            }
+        ]
+    },
+    {
+        "name": "209A",
+        "pokedex": "209",
+        "grade": "A",
+        "display_name": "Snubbull",
+        "color1": "Pink",
+        "stats": [
+            {
+                "hp": -50,
+                "attack": 2
+            }
+        ]
+    },
+    {
+        "name": "210A",
+        "pokedex": "210",
+        "grade": "A",
+        "display_name": "Granbull",
+        "color1": "Pink",
+        "stats": [
+            {
+                "attack": 2,
+                "sp_defense": -5
+            }
+        ]
+    },
+    {
+        "name": "211A",
+        "pokedex": "211",
+        "grade": "A",
+        "display_name": "Qwilfish",
+        "color1": "Black",
+        "stats": [
+            {
+                "hp": 50,
+                "sp_defense": -5
+            }
+        ]
+    },
+    {
+        "name": "212A",
+        "pokedex": "212",
+        "grade": "A",
+        "display_name": "Scizor",
+        "color1": "Gray",
+        "stats": [
+            {
+                "sp_defense": -5,
+                "crit": 0.6
+            }
+        ]
+    },
+    {
+        "name": "213A",
+        "pokedex": "213",
+        "grade": "A",
+        "display_name": "Shuckle",
+        "color1": "Brown",
+        "stats": [
+            {
+                "hp": -50,
+                "sp_defense": 5
+            }
+        ]
+    },
+    {
+        "name": "214A",
+        "pokedex": "214",
+        "grade": "A",
+        "display_name": "Heracross",
+        "color1": "Brown",
+        "stats": [
+            {
+                "hp": -50,
+                "attack": 2
+            }
+        ]
+    },
+    {
+        "name": "215A",
+        "pokedex": "215",
+        "grade": "A",
+        "display_name": "Sneasel",
+        "color1": "Black",
+        "stats": [
+            {
+                "hp": -50,
+                "crit": 0.6
+            }
+        ]
+    },
+    {
+        "name": "216A",
+        "pokedex": "216",
+        "grade": "A",
+        "display_name": "Teddiursa",
+        "color1": "White",
+        "stats": [
+            {
+                "hp": -50,
+                "attack": 2
+            }
+        ]
+    },
+    {
+        "name": "217A",
+        "pokedex": "217",
+        "grade": "A",
+        "display_name": "Ursaring",
+        "color1": "White",
+        "stats": [
+            {
+                "attack": 2,
+                "speed": -35
+            }
+        ]
+    },
+    {
+        "name": "218A",
+        "pokedex": "218",
+        "grade": "A",
+        "display_name": "Slugma",
+        "color1": "Red",
+        "stats": [
+            {
+                "attack": -2,
+                "defense": 5
+            }
+        ]
+    },
+    {
+        "name": "219A",
+        "pokedex": "219",
+        "grade": "A",
+        "display_name": "Magcargo",
+        "color1": "Red",
+        "stats": [
+            {
+                "hp": -50,
+                "defense": 5
+            }
+        ]
+    },
+    {
+        "name": "220A",
+        "pokedex": "220",
+        "grade": "A",
+        "display_name": "Swinub",
+        "color1": "Blue",
+        "stats": [
+            {
+                "hp": 50,
+                "sp_defense": -5
+            }
+        ]
+    },
+    {
+        "name": "221A",
+        "pokedex": "221",
+        "grade": "A",
+        "display_name": "Piloswine",
+        "color1": "Blue",
+        "color2": "Brown",
+        "stats": [
+            {
+                "hp": 50,
+                "crit": -0.6
+            }
+        ]
+    },
+    {
+        "name": "222A",
+        "pokedex": "222",
+        "grade": "A",
+        "display_name": "Corsola",
+        "color1": "Blue",
+        "stats": [
+            {
+                "attack": -2,
+                "sp_defense": 5
+            }
+        ]
+    },
+    {
+        "name": "223A",
+        "pokedex": "223",
+        "grade": "A",
+        "display_name": "Remoraid",
+        "color1": "Blue",
+        "stats": [
+            {
+                "hp": -50,
+                "sp_attack": 3
+            }
+        ]
+    },
+    {
+        "name": "224A",
+        "pokedex": "224",
+        "grade": "A",
+        "display_name": "Octillery",
+        "color1": "Blue",
+        "stats": [
+            {
+                "sp_attack": 3,
+                "defense": -5
+            }
+        ]
+    },
+    {
+        "name": "225A",
+        "pokedex": "225",
+        "grade": "A",
+        "display_name": "Delibird",
+        "color1": "Blue",
+        "color2": "White",
+        "stats": [
+            {
+                "hp": -50,
+                "sp_attack": 3
+            }
+        ]
+    },
+    {
+        "name": "226A",
+        "pokedex": "226",
+        "grade": "A",
+        "display_name": "Mantine",
+        "color1": "Blue",
+        "color2": "White",
+        "stats": [
+            {
+                "attack": -2,
+                "sp_defense": 5
+            }
+        ]
+    },
+    {
+        "name": "227A",
+        "pokedex": "227",
+        "grade": "A",
+        "display_name": "Skarmory",
+        "color1": "Gray",
+        "stats": [
+            {
+                "hp": -50,
+                "attack": 2
+            }
+        ]
+    },
+    {
+        "name": "228A",
+        "pokedex": "228",
+        "grade": "A",
+        "display_name": "Houndour",
+        "color1": "Red",
+        "stats": [
+            {
+                "hp": -50,
+                "attack": 2
+            }
+        ]
+    },
+    {
+        "name": "229A",
+        "pokedex": "229",
+        "grade": "A",
+        "display_name": "Houndoom",
+        "color1": "Red",
+        "color2": "Black",
+        "stats": [
+            {
+                "attack": 2,
+                "defense": -5
+            }
+        ]
+    },
+    {
+        "name": "230A",
+        "pokedex": "230",
+        "grade": "A",
+        "display_name": "Kingdra",
+        "color1": "Blue",
+        "color2": "Navy",
+        "stats": [
+            {
+                "sp_attack": 3,
+                "speed": -35
+            }
+        ]
+    },
+    {
+        "name": "231A",
+        "pokedex": "231",
+        "grade": "A",
+        "display_name": "Phanpy",
+        "color1": "Brown",
+        "stats": [
+            {
+                "hp": -50,
+                "attack": 2
+            }
+        ]
+    },
+    {
+        "name": "232A",
+        "pokedex": "232",
+        "grade": "A",
+        "display_name": "Donphan",
+        "color1": "Brown",
+        "stats": [
+            {
+                "attack": 2,
+                "sp_defense": -5
+            }
+        ]
+    },
+    {
+        "name": "233A",
+        "pokedex": "233",
+        "grade": "A",
+        "display_name": "Porygon2",
+        "color1": "White",
+        "stats": [
+            {
+                "attack": -2,
+                "sp_attack": 3
+            }
+        ]
+    },
+    {
+        "name": "234A",
+        "pokedex": "234",
+        "grade": "A",
+        "display_name": "Stantler",
+        "color1": "White",
+        "stats": [
+            {
+                "sp_attack": 3,
+                "sp_defense": -5
+            }
+        ]
+    },
+    {
+        "name": "235A",
+        "pokedex": "235",
+        "grade": "A",
+        "display_name": "Smeargle",
+        "color1": "White",
+        "stats": [
+            {
+                "hp": 50,
+                "sp_attack": -3
+            }
+        ]
+    },
+    {
+        "name": "236A",
+        "pokedex": "236",
+        "grade": "A",
+        "display_name": "Tyrogue",
+        "color1": "Brown",
+        "stats": [
+            {
+                "hp": -50,
+                "sp_defense": 5
+            }
+        ]
+    },
+    {
+        "name": "237A",
+        "pokedex": "237",
+        "grade": "A",
+        "display_name": "Hitmontop",
+        "color1": "Brown",
+        "stats": [
+            {
+                "sp_attack": -3,
+                "sp_defense": 5
+            }
+        ]
+    },
+    {
+        "name": "238A",
+        "pokedex": "238",
+        "grade": "A",
+        "display_name": "Smoochum",
+        "color1": "Purple",
+        "stats": [
+            {
+                "hp": -50,
+                "sp_attack": 3
+            }
+        ]
+    },
+    {
+        "name": "239A",
+        "pokedex": "239",
+        "grade": "A",
+        "display_name": "Elekid",
+        "color1": "Yellow",
+        "stats": [
+            {
+                "hp": -50,
+                "attack": 2
+            }
+        ]
+    },
+    {
+        "name": "240A",
+        "pokedex": "240",
+        "grade": "A",
+        "display_name": "Magby",
+        "color1": "Red",
+        "stats": [
+            {
+                "attack": 2,
+                "defense": -5
+            }
+        ]
+    },
+    {
+        "name": "241A",
+        "pokedex": "241",
+        "grade": "A",
+        "display_name": "Miltank",
+        "color1": "White",
+        "stats": [
+            {
+                "sp_attack": -3,
+                "defense": 5
+            }
+        ]
+    },
+    {
+        "name": "242A",
+        "pokedex": "242",
+        "grade": "A",
+        "display_name": "Blissey",
+        "color1": "White",
+        "stats": [
+            {
+                "hp": 50,
+                "attack": -2
+            }
+        ]
+    },
+    {
+        "name": "243A",
+        "pokedex": "243",
+        "grade": "A",
+        "display_name": "Raikou",
+        "color1": "Yellow",
+        "stats": [
+            {
+                "hp": 50,
+                "attack": -2
+            }
+        ]
+    },
+    {
+        "name": "244A",
+        "pokedex": "244",
+        "grade": "A",
+        "display_name": "Entei",
+        "color1": "Red",
+        "stats": [
+            {
+                "hp": 50,
+                "sp_attack": -3
+            }
+        ]
+    },
+    {
+        "name": "245A",
+        "pokedex": "245",
+        "grade": "A",
+        "display_name": "Suicune",
+        "color1": "Blue",
+        "stats": [
+            {
+                "hp": 50,
+                "attack": -2
+            }
+        ]
+    },
+    {
+        "name": "246A",
+        "pokedex": "246",
+        "grade": "A",
+        "display_name": "Larvitar",
+        "color1": "Brown",
+        "stats": [
+            {
+                "hp": 50,
+                "sp_defense": -5
+            }
+        ]
+    },
+    {
+        "name": "247A",
+        "pokedex": "247",
+        "grade": "A",
+        "display_name": "Pupitar",
+        "color1": "Brown",
+        "stats": [
+            {
+                "hp": 50,
+                "speed": -35
+            }
+        ]
+    },
+    {
+        "name": "248A",
+        "pokedex": "248",
+        "grade": "A",
+        "display_name": "Tyranitar",
+        "color1": "Brown",
+        "color2": "Black",
+        "stats": [
+            {
+                "hp": 50,
+                "crit": -0.6
+            }
+        ]
+    },
+    {
+        "name": "249A",
+        "pokedex": "249",
+        "grade": "A",
+        "display_name": "Lugia",
+        "color1": "Green",
+        "color2": "White",
+        "stats": [
+            {
+                "attack": -3,
+                "sp_attack": 4.5
+            }
+        ]
+    },
+    {
+        "name": "250A",
+        "pokedex": "250",
+        "grade": "A",
+        "display_name": "Ho-oh",
+        "color1": "Brown",
+        "color2": "White",
+        "stats": [
+            {
+                "attack": 3,
+                "sp_attack": -4.5
+            }
+        ]
+    },
+    {
+        "name": "251A",
+        "pokedex": "251",
+        "grade": "A",
+        "display_name": "Celebi",
+        "color1": "Green",
+        "color2": "Purple",
+        "stats": [
+            {
+                "hp": -50,
+                "cdr": 0.6
+            }
+        ]
+    },
+    {
+        "name": "380A",
+        "pokedex": "380",
+        "grade": "A",
+        "display_name": "Latias",
+        "color1": "Navy",
+        "color2": "Purple",
+        "stats": [
+            {
+                "hp": -50,
+                "sp_defense": 5
+            }
+        ]
+    },
+    {
+        "name": "381A",
+        "pokedex": "381",
+        "grade": "A",
+        "display_name": "Latios",
+        "color1": "Navy",
+        "color2": "Purple",
+        "stats": [
+            {
+                "sp_attack": 3,
+                "defense": -5
+            }
+        ]
+    },
+    {
+        "name": "888A",
+        "pokedex": "888",
+        "grade": "A",
+        "display_name": "Zacian",
+        "color1": "Gray",
+        "color2": "Pink",
+        "stats": [
+            {
+                "attack": 2,
+                "sp_attack": -3
+            }
+        ]
+    },
+    {
+        "name": "906A",
+        "pokedex": "906",
+        "grade": "A",
+        "display_name": "Sprigatito",
+        "color1": "Green",
+        "stats": [
+            {
+                "sp_defense": -5,
+                "speed": 35
+            }
+        ]
+    },
+    {
+        "name": "907A",
+        "pokedex": "907",
+        "grade": "A",
+        "display_name": "Floragato",
+        "color1": "Green",
+        "stats": [
+            {
+                "defense": -5,
+                "speed": 35
+            }
+        ]
+    },
+    {
+        "name": "908A",
+        "pokedex": "908",
+        "grade": "A",
+        "display_name": "Meowscarada",
+        "color1": "Green",
+        "color2": "Black",
+        "stats": [
+            {
+                "hp": -50,
+                "speed": 35
+            }
+        ]
+    },
+    {
+        "name": "1008A",
+        "pokedex": "1008",
+        "grade": "A",
+        "display_name": "Miraidon",
+        "color1": "Yellow",
+        "color2": "Navy",
+        "stats": [
+            {
+                "hp": -50,
+                "speed": 35
+            }
+        ]
+    }
+]
